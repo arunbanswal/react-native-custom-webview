@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/d-a-n/react-native-webbrowser.git"
+    "url": "git+https://github.com/fahadhaq/react-native-webbrowser.git"
   },
   "keywords": [
     "webview",
@@ -26,9 +26,9 @@
   "author": "Daniel Korger <dan@imake.io> (https://imake.io)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/d-a-n/react-native-webbrowser/issues"
+    "url": "https://github.com/fahadhaq/react-native-webbrowser/issues"
   },
-  "homepage": "https://github.com/d-a-n/react-native-webbrowser#readme",
+  "homepage": "https://github.com/fahadhaq/react-native-webbrowser#readme",
   "dependencies": {
     "react-native-loading-spinner-overlay": "^0.1.1"
   }
