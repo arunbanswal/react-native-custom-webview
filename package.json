@@ -1,5 +1,5 @@
 {
-  "name": "react-native-webbrowser",
+  "name": "react-native-webbrowser-with-back",
   "version": "0.0.6",
   "description": "A cross-platform (iOS / Android), full-featured in-app web browser component for React Native that is highly customizable",
   "main": "index.js",

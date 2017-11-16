@@ -51,11 +51,9 @@ class BackButton extends BaseComponent {
 
       return (
         <Button
-          onPress={ this.onBackPress.bind(this) }>
-          <Image
-              style={this.buttonStyle()}
-              source={require('./assets/images/arrow-left.png')}
-          />
+          onPress={ this.onBackPress.bind(this) }
+          title="Done"
+          color='#fff'>
         </Button>
       );
     }

@@ -1,4 +1,8 @@
 # react-native-webbrowser
+I am just using the https://github.com/d-a-n/react-native-webbrowser to create a back button. Credit goes to 
+https://github.com/d-a-n/react-native-webbrowser
+https://github.com/magrinj/react-native-webbrowser
+
 A cross-platform (iOS / Android), full-featured in-app web browser component for React Native that is highly customizable. Currently you can hide the address-, status- and toolbar. Additionally the foreground and background colors can be modified.
  
 ## Install
