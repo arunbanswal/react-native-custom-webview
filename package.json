@@ -23,7 +23,7 @@
     "react-native",
     "react-component"
   ],
-  "author": "Daniel Korger <dan@imake.io> (https://imake.io)",
+  "author": "Fahad Haque",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/fahadhaq/react-native-webbrowser/issues"
