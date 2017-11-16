@@ -1,6 +1,6 @@
 {
   "name": "react-native-webbrowser-with-back",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "A cross-platform (iOS / Android), full-featured in-app web browser component for React Native that is highly customizable",
   "main": "index.js",
   "scripts": {
@@ -30,6 +30,6 @@
   },
   "homepage": "https://github.com/fahadhaq/react-native-webbrowser#readme",
   "dependencies": {
-    "react-native-loading-spinner-overlay": "^0.1.1"
+    "react-native-loading-spinner-overlay": "^0.5.2"
   }
 }
