@@ -18,7 +18,7 @@ export default StyleSheet.create({
         shadowColor:SHADOW_COLOR,
         shadowOpacity:SHADOW_OPACITY,
         shadowRadius:SHADOW_RADIUS,
-        shadowOffset: { height:1, width: 0 },
+        shadowOffset: { height:1, width: 0 }
     },
     addressBarRow: {
         flex: 1,
@@ -29,11 +29,14 @@ export default StyleSheet.create({
         marginRight: ELEMENT_MARGIN + 7,
     },
     backButton: {
-      width: 20,
-      height: 20,
+      width: 40,
+      height: 25,
       opacity: 0.9,
       marginTop: ELEMENT_MARGIN/2 + 2,
       marginLeft: ELEMENT_MARGIN + 7,
+      borderColor: 'transparent',
+      borderRadius: 3,
+      borderWidth: 1
     },
     webView: {
         backgroundColor: BGWASH,

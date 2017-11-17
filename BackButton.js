@@ -6,6 +6,8 @@ import React, {
 
 import ReactNative, {
   Image,
+  Text,
+  TouchableHighlight
 } from 'react-native';
 
 import BaseComponent from './BaseComponent'
@@ -50,11 +52,17 @@ class BackButton extends BaseComponent {
       }
 
       return (
-        <Button
-          onPress={ this.onBackPress.bind(this) }
-          title="Done"
-          color='#fff'>
-        </Button>
+        // <Button
+        //   onPress={ this.onBackPress.bind(this) }
+        //   title="Done"
+        //   color='#fff'
+        //   style={this.buttonStyle()}>
+        // </Button>
+        <TouchableHighlight onPress={this.onBackPress.bind(this)} style={styles.backButton} underlayColor='#ffffffff'>
+          <Text style={{color: '#fff'}}>
+            Done
+          </Text>
+        </TouchableHighlight>
       );
     }
 }

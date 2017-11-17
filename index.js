@@ -98,6 +98,9 @@ class Webbrowser extends BaseComponent {
     }
 
     renderBackButton() {
+        console.log('backButtonVisible = ', this.props.backButtonVisible)
+        console.log('onBackPress = ', this.props.onBackPress)
+
       return (
         <BackButton
           visible={this.props.backButtonVisible}

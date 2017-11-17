@@ -18,14 +18,13 @@ import {
 const IS_ANDROID = Platform.OS === 'android';
 
 class Button extends Component {
-
     constructor() {
         super();
         this.state = {}
     }
 
-    _renderChildAndroid() {
 
+    _renderChildAndroid() {
         if (this.props.loading) {
             return (
                 <ProgressBarAndroid
