@@ -58,8 +58,9 @@ class SampleApp extends Component {
 
 
 ## Screenshots
-
-<img src="https://raw.githubusercontent.com/d-a-n/react-native-webbrowser/master/assets/images/screenshot.png" width="400" />
-&nbsp;&nbsp;&nbsp;
 With Back button
 <img src="https://raw.githubusercontent.com/fahadhaq/react-native-webbrowser/master/assets/images/screenshot3.png" width="400" />
+&nbsp;&nbsp;&nbsp;
+<img src="https://raw.githubusercontent.com/d-a-n/react-native-webbrowser/master/assets/images/screenshot.png" width="400" />
+
+
