@@ -1,4 +1,4 @@
-# react-native-webbrowser
+# react-native-webbrowser-with-back
 I am just using the https://github.com/d-a-n/react-native-webbrowser to create a back button. Credit goes to 
 https://github.com/d-a-n/react-native-webbrowser
 https://github.com/magrinj/react-native-webbrowser
