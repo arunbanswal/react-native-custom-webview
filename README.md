@@ -19,17 +19,22 @@ Here is an extensive overview of the component usage.
 
 class SampleApp extends Component {
     render() {
+        const goBack = () => 
+        {
+            this.props.navigation.goBack()
+        }
         return (
             <View style={{paddingTop:20, flex:1}}>
-            
                 <Webbrowser
-                    url="https://your-url.com"
+                    url="https://facebook.github.io/react-native/docs/"
                     hideHomeButton={false}
                     hideToolbar={false}
                     hideAddressBar={false}
-                    hideStatusBar={false}
-                    foregroundColor={'#efefef'}
-                    backgroundColor={'#333'}
+                    hideStatusBar={true}
+                    backButtonVisible={true}
+                    onBackPress= {() => {goBack()}}
+                    foregroundColor="#D61B5D"
+                    backgroundColor="#F3848A"
                 />
                 
             </View>
