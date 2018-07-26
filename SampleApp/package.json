@@ -7,6 +7,6 @@
   },
   "dependencies": {
     "react-native": "^0.20.0",
-    "react-native-webbrowser-with-back": "*"
+    "react-native-custom-webview": "*"
   }
 }

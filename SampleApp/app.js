@@ -3,7 +3,7 @@
 import React, {Component} from 'react';
 import {View} from 'react-native';
 
-import Webbrowser from 'react-native-webbrowser-with-back'
+import Webbrowser from 'react-native-custom-webview'
 
 class SampleApp extends Component {
     render() {

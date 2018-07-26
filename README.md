@@ -1,4 +1,4 @@
-# react-native-webbrowser-with-back
+# react-native-custom-webview
 I am just using the https://github.com/d-a-n/react-native-webbrowser to create a back button. Credit goes to 
 https://github.com/d-a-n/react-native-webbrowser
 https://github.com/magrinj/react-native-webbrowser
@@ -8,7 +8,7 @@ A cross-platform (iOS / Android), full-featured in-app web browser component for
 ## Install
 
 ```sh
-npm i react-native-webbrowser-back-button --save
+npm i react-native-custom-webview --save
 ```
 
 ## Usage
@@ -60,8 +60,8 @@ class SampleApp extends Component {
 ## Screenshots 
 With Back button
 
-<img src="https://raw.githubusercontent.com/fahadhaq/react-native-webbrowser/master/assets/images/screenshot3.png" width="400" />
+<img src="https://raw.githubusercontent.com/squatto/react-native-custom-webview/master/assets/images/screenshot3.png" width="400" />
 &nbsp;&nbsp;&nbsp;
-<img src="https://raw.githubusercontent.com/d-a-n/react-native-webbrowser/master/assets/images/screenshot.png" width="400" />
+<img src="https://raw.githubusercontent.com/squatto/react-native-custom-webview/master/assets/images/screenshot.png" width="400" />
 
 

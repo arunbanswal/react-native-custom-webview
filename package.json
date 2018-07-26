@@ -1,5 +1,5 @@
 {
-  "name": "react-native-webbrowser-with-back",
+  "name": "react-native-custom-webview",
   "version": "1.0.36",
   "description": "A cross-platform (iOS / Android), full-featured in-app web browser component for React Native that is highly customizable",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fahadhaq/react-native-webbrowser.git"
+    "url": "git+https://github.com/squatto/react-native-custom-webview.git"
   },
   "keywords": [
     "webview",
@@ -23,12 +23,12 @@
     "react-native",
     "react-component"
   ],
-  "author": "Fahad Haque",
+  "author": "Scott Carpenter",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/fahadhaq/react-native-webbrowser/issues"
+    "url": "https://github.com/squatto/react-native-custom-webview/issues"
   },
-  "homepage": "https://github.com/fahadhaq/react-native-webbrowser#readme",
+  "homepage": "https://github.com/squatto/react-native-custom-webview#readme",
   "dependencies": {
     "react-native-loading-spinner-overlay": "^0.5.2"
   }

@@ -11,6 +11,6 @@
   ],
   "ext": "js json png jpeg jpg",
   "events": {
-    "restart": "cp -rf ../*.{js,json} ../assets node_modules/react-native-webbrowser-with-back/"
+    "restart": "cp -rf ../*.{js,json} ../assets node_modules/react-native-custom-webview/"
   }
 }
