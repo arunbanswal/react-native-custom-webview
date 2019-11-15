@@ -31,6 +31,7 @@
   "homepage": "https://github.com/squatto/react-native-custom-webview#readme",
   "dependencies": {
     "prop-types": "^15.6.2",
-    "react-native-loading-spinner-overlay": "^0.5.2"
+    "react-native-loading-spinner-overlay": "^0.5.2",
+    "react-native-webview": "^7.5.1",
   }
 }
