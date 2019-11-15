@@ -3,11 +3,8 @@
 import PropTypes from 'prop-types';
 
 import React from 'react';
-
-import {
-  View,
-  WebView,
-} from 'react-native';
+import { WebView } from 'react-native-webview';
+import {View} from 'react-native';
 
 import BaseComponent from './BaseComponent'
 import Utils from './Utils'
